@@ -1,0 +1,9 @@
+Java = it is programming language in which we write out tests
+IntelliJ = we use it to write and execute our code/testing
+Eclipse = we use it to write and execute our codes/tests
+Selenium = automation tool, it is just another library
+Library/dependency = set of prewritten classes methods which we can add to our code an use
+Maven- build management tool, we use it ti manage dependencies, We add selenium , testing etc useing maven
+
+Utilities --> package we store the utilty classes
+ utility class --> this class will not have test, they will have pieces of reusable code that is fruquwntly used
